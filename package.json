@@ -1,0 +1,17 @@
+{
+  "name": "ex-gujp",
+  "version": "1.0.0",
+  "description": "Example Gulp",
+  "main": "Gulpfile.js",
+  "author": "Mateus Constanzo",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-jshint": "^1.11.2",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-uglify": "^1.2.0",
+    "jshint-stylish": "^2.0.1"
+  }
+}
